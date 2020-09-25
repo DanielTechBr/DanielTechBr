@@ -1,23 +1,10 @@
-<!--
-Hi! This is an easter egg.
-Congratulations you found the first one!
--->
+<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px">
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!-- # 👀 Olá tudo bem? ! -->
+<h2 align="Center">  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-# Sobre mim:
-- 🤝 Team: The Cybers Sec
-- 🏰 Castelo dos Código 
-- 👨🏻‍💻 Full-Stack Programador Python & PHP 
-- 🌐 Estudando outras lang 
-- 😍 Amo games e Natureza
-- 🚀 Em busca do profissionalismo
+[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
-# Entre em contato:
 
-- 📱 55 38 98822-5617 
 
-<!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
-  
