@@ -13,7 +13,7 @@ Congratulations you found the first one!
 #  Sobre mim:
 - 🙋🏻‍♂️Estudante de programação, em busca de aprimoramentos na área. 
 - 📚Projetos em atualização, 
-- ✔️Além de Python, posso contribuir em PHP e C++ [Python é o meu hobbie] as outras sei o básico. 
+- ✔️Além de Python, posso contribuir em PHP e C [Python é o meu hobbie] as outras sei o básico. 
 - 🛄 Faço pentester em horários vagos. 
 
 
